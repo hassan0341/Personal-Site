@@ -43,7 +43,7 @@ To view my personal website, you can either:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/personal-website.git
+   git clone https://github.com/hassan0341/Personal-Site.git
 2. **Open the Index File**:
 Navigate to the cloned directory and open the index.html file in your preferred web browser.
 
