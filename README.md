@@ -45,4 +45,6 @@ To view my personal website, you can either:
    ```bash
    git clone https://github.com/your-username/personal-website.git
 2. **Open the Index File**:
-   Navigate to the cloned directory and open the index.html file in your preferred web browser.
+Navigate to the cloned directory and open the index.html file in your preferred web browser.
+
+No additional setup is required since the website is purely built with HTML and CSS.
