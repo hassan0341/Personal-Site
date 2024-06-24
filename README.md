@@ -2,6 +2,10 @@
 
 Welcome to my personal website project! This website is designed to showcase my skills, experiences, and interests. The site is built entirely with HTML and CSS, with no JavaScript code included. Here’s a breakdown of what you can expect and how you can navigate through my site.
 
+# Deployed Site
+
+(https://hassan0341.github.io/Personal-Site/)
+
 ## Technologies Used
 
 - **HTML**: For structuring the content of the website.
