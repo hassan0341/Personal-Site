@@ -11,3 +11,8 @@
 .fs-2 {
   font-size: 25px !important;
 }
+
+.img-about-me {
+  max-width: 200px;
+  padding-right: 10px;
+}
